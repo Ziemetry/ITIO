@@ -1,0 +1,7 @@
+{
+  "name": "Bill Scanner AI",
+  "description": "A modern, AI-powered expense tracker using Gemini to scan receipts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
